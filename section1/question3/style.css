@@ -1,0 +1,11 @@
+html,
+body {
+  font-family: monospace;
+  height: 100%;
+  line-height: 1.5;
+  margin: 0;
+}
+section {
+  height: 200px;
+  padding: 10px;
+}
